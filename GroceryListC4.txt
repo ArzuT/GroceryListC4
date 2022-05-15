@@ -7,3 +7,6 @@ magazine
 kiwi
 mangoe
 aloe vera
+milk
+cheese
+yogurt
